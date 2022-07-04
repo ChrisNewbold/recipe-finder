@@ -106,10 +106,12 @@ body {
 /* h1 heading styles */
 h1 {
   text-align: center;
+  font-weight: bolder;
 }
 /* h2 heading styles */
 h2 {
   text-align: center;
+  font-weight: bolder;
 }
 /* h3 heading style */
 h3 {
@@ -210,11 +212,11 @@ p {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  flex: 1;
+  padding: inherit;
   justify-content: center;
   gap: 1rem;
   overflow: scroll;
-  height: 680px;
+  height: 670px;
   box-shadow: 0px 0px 19px 5px #b1b1b1;
 }
 /* Search results card */
