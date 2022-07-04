@@ -26,7 +26,6 @@ To achieve this our group used HTML, CSS and Javascript. In addition, we used se
 
 ![Screenshot2 of application in Google Chrome browser](./assets/images/Recipe%20FindR%20video%20result.png)
 
-![Screenshot3 of application in Google Chrome browser](./assets/images/image.png)
 
 ### Original Wireframes of Application
 
